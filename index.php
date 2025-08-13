@@ -55,8 +55,7 @@ $currentTime = date('Y-m-d H:i:s');
         </form>
 
         <div class="links">
-            <a href="get_page.php">GET Page</a> --
-            <a href="get_page.php?name=Mohannad">With GET Page Name</a>
+            <a href="get_page.php?name=Mohannad">GET Page</a>
         </div>
     </div>
 </body>
